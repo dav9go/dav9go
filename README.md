@@ -4,11 +4,11 @@
 
 <h1 align="center">👋 I play with</h1>
 
-<p>
+<p float="right">
 <img align="center" alt="coding" width="200" src="https://logos-download.com/wp-content/uploads/2016/09/React_logo_wordmark.png">
+</p>
 
 <img align="center" alt="coding" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png">
-
 
 <img align="center" alt="coding" width="175" src="https://itzone.com.vn/wp-content/uploads/2020/01/aec9657d-51c9-4d60-acc3-b784680ff410.png">
 </p>
